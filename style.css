@@ -1259,3 +1259,13 @@ input:checked {
   display: flex;
   justify-self: center;
 }
+
+.fiverr{
+  color: #ffffff;
+  text-align: center;
+}
+
+.fiverrtitle{
+  font-weight: 600;
+  font-size: 30px;
+}
